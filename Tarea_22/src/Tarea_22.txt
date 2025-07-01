@@ -1,0 +1,6 @@
+
+
+Para el ejemplo de la clase main se pide crear dos objetos por cada tipo de producto
+que deben ser almacenados en un arreglo del tipo Producto,
+se debe mostrar iterando el arreglo, por cada uno el detalle completo, el precio,
+nombre y los atributos adicionales.
